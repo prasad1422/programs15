@@ -1,0 +1,9 @@
+//Add five integers (without using variables) and display their sum.//
+
+public class Program2 {
+    public static void main(String[] args) {
+        System.out.println(1 + 2 + 3 + 4 + 5);
+    }
+}
+
+Output: 15

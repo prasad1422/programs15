@@ -1,0 +1,13 @@
+//Declare 2 float variables and display their sum.
+java//
+
+public class Program4 {
+    public static void main(String[] args) {
+        float num1 = 3.5f;
+        float num2 = 2.7f;
+
+        float sum = num1 + num2;
+        System.out.println("Sum: " + sum);
+    }
+}
+Output : 6.2
